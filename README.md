@@ -4,4 +4,6 @@ https://docs.djangoproject.com/en/1.9/intro/tutorial01/
 
 https://docs.djangoproject.com/en/1.9/intro/tutorial02/
 
-https://docs.djangoproject.com/en/1.9/intro/tutorial03/ <= Atual
+https://docs.djangoproject.com/en/1.9/intro/tutorial03/ 
+
+https://docs.djangoproject.com/en/1.9/intro/tutorial04/ <= Atual
