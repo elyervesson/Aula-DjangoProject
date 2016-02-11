@@ -6,4 +6,6 @@ https://docs.djangoproject.com/en/1.9/intro/tutorial02/
 
 https://docs.djangoproject.com/en/1.9/intro/tutorial03/ 
 
-https://docs.djangoproject.com/en/1.9/intro/tutorial04/ <= Atual
+https://docs.djangoproject.com/en/1.9/intro/tutorial04/
+
+https://docs.djangoproject.com/en/1.9/intro/tutorial05/ <= Atual
